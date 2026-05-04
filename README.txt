@@ -1,33 +1,27 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# St Theresa's Home — Website
 
+Official website for St Theresa's Home, built on the Helios template by HTML5 UP.
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+## Template Credit
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
+[Helios](https://html5up.net) by HTML5 UP — used under the 
+[CCA 3.0 license](https://html5up.net/license). Original template by [AJ](mailto:aj@lkn.io).
 
-http://md.photomerchant.net/
+## Libraries Used
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
+- [jQuery](https://jquery.com)
+- [Font Awesome](https://fontawesome.io)
+- [Scrollex](https://github.com/ajlkn/jquery.scrollex)
+- [Responsive Tools](https://github.com/ajlkn/responsive-tools)
 
-AJ
-aj@lkn.io | @ajlkn
+## Status
 
+In development
 
-Credits:
+## Notes
 
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
+## Notes
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Demo images from the original template are included for reference only and will 
+be replaced before the site goes live. Original demo photography by 
+[Michael Domaradzki](http://md.photomerchant.net/) — not for public use.
