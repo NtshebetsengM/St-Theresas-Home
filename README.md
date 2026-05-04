@@ -20,8 +20,6 @@ In development
 
 ## Notes
 
-## Notes
-
 Demo images from the original template are included for reference only and will 
 be replaced before the site goes live. Original demo photography by 
 [Michael Domaradzki](http://md.photomerchant.net/) — not for public use.
