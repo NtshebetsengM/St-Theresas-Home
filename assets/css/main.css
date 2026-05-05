@@ -2654,6 +2654,11 @@ body.homepage.is-preload #header:after {
 	color: rgba(212, 212, 212, 0.85);
 }
 
+.footerMenu{
+	list-style: none; 
+	padding: 0; 
+	margin: 0;
+}
 /* Carousel */
 
 .carousel {
