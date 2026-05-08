@@ -1932,6 +1932,11 @@ footer {
 	width: auto;
 }
 
+.homeImg {
+    width: 20em;
+    max-width: 100%;
+}
+
 /* List */
 
 ul {
